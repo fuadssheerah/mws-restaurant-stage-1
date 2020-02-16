@@ -5,3 +5,8 @@ nav {
   text-align: center;
   display: flex;
 }
+#map {
+  height: 300px;
+  width: 100%;
+  background-color: #ccc;
+}
