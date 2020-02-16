@@ -1,0 +1,7 @@
+nav {
+  width: 100%;
+  height: 80px;
+  background-color: #2e5de7;
+  text-align: center;
+  display: flex;
+}
