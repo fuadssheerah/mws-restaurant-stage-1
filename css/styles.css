@@ -80,7 +80,6 @@ nav {
   /*height: 55px;*/
   background-color: #252831;
   text-align: center;
-  display: flex;
 }
 nav h1 {
   padding: 25px 20px;
@@ -127,7 +126,7 @@ nav h1 a {
 }
 /* ====================== Map ====================== */
 #map {
-  height: 200px;
+  height: 400px;
   width: 100%;
   background-color: #ccc;
 }
@@ -165,6 +164,10 @@ nav h1 a {
   margin: 0;
   padding: 30px 15px 60px;
   text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
 }
 #restaurants-list li {
   background-color: #fff;
