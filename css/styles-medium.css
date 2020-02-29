@@ -64,3 +64,9 @@ nav {
   width: 200px;
   border-radius: 5px;
 }
+#maincontent {
+  background-color: #f3f3f3;
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
