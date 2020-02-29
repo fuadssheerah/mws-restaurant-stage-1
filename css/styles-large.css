@@ -35,3 +35,24 @@ nav {
   padding: 0 10px;
   width: 200px;
 }
+#restaurants-list {
+  background-color: #f3f3f3;
+  list-style: outside none none;
+  margin: 0;
+  padding: 30px 15px 60px;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+.filter-options select {
+  background-color: white;
+  border: 1px solid #fff;
+  font-family: Arial, sans-serif;
+  font-size: 11pt;
+  height: 20px;
+  letter-spacing: 0;
+  margin: 5px;
+  padding: 0 10px;
+  width: 200px;
+  border-radius: 5px;
+}
